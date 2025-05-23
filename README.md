@@ -2,7 +2,7 @@
 
 USE VSCODE TO AVOID UNCOMPATIBILY WHEN RUNNING.
 
-To test our agent:
+To test our agent: You can also watch the Demo.mp4
 The trained model is in the model folder.
 
 Step1:
