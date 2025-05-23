@@ -52,6 +52,7 @@ Step1:
     Download the dataset and unzip it
 
 Step2:
+
     Then go into the datapreproccessing.py file and change these paths files here to be compatibale with your directories (corresponding file paths):
 
     line 12-13
