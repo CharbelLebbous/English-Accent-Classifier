@@ -7,6 +7,7 @@ To test our agent: You can also watch the Demo.mp4
 The trained model is in the model folder.
 
 Step1:
+
     Install the needed libraries for the main-pipline.py file in a venv
     
     Core Dependencies:
@@ -44,6 +45,7 @@ Step3:
 To preprocess the dataset (optional)
 
 Step1:
+
     Dataset name: Common Voice Delta Segment 10.0
     Dataset link: https://commonvoice.mozilla.org/en/datasets
 
@@ -70,6 +72,7 @@ Step3:
 To train the model (optional) since i provided the trained model:
 
 Step1:
+
     Go into the train.py file and change these paths files here to be compatibale with your directories (corresponding file paths):
 
         line 12-13
