@@ -27,6 +27,7 @@ Step1:
     ffmpeg       
 
 Step2:
+
     Then go into the main-pipline.py file and change the path of the model and the scaler .pkl files here:
     line 130-131:
         # Load model
@@ -80,7 +81,7 @@ Step1:
             # === Save final trained model ===
             joblib.dump(rf, "D:\\Charbel_LEBBOUS\\AI Projects\\accent-detector\\model\\random_forest_accent_classifier_tuned.pkl")
 
-Step3:            
+Step2:            
     Then run train.py
 
     command: python train.py 
